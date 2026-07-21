@@ -1,0 +1,14 @@
+{
+  "name": "demo-marketplace",
+  "owner": {
+    "name": "Thomas Auinger",
+    "email": "thomas.auinger@legend-espresso.com"
+  },
+  "plugins": [
+    {
+      "name": "hello-world",
+      "source": "./hello-world",
+      "description": "A simple demo Claude Code plugin showing a slash command, an agent, and a hook."
+    }
+  ]
+}
