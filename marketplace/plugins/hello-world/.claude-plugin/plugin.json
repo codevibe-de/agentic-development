@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "displayName": "Hello World",
+  "version": "0.1.0",
+  "description": "Minimal starter plugin that adds a /hello slash command.",
+  "author": {
+    "name": "Thomas Auinger",
+    "email": "thomas.auinger@legend-espresso.com"
+  },
+  "license": "MIT",
+  "keywords": ["demo", "starter", "command"]
+}

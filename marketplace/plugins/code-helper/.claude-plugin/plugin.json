@@ -1,0 +1,13 @@
+{
+  "name": "code-helper",
+  "displayName": "Code Helper",
+  "version": "0.1.0",
+  "description": "Demonstrates a command, an agent, a skill, and a hook working together.",
+  "author": {
+    "name": "Thomas Auinger",
+    "email": "thomas.auinger@legend-espresso.com"
+  },
+  "license": "MIT",
+  "keywords": ["demo", "review", "agent", "skill", "hook"],
+  "hooks": "./hooks/hooks.json"
+}
