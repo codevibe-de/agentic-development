@@ -1,0 +1,24 @@
+{
+  "name": "codevibe-demo",
+  "description": "A demo Claude Code plugin marketplace with example plugins.",
+  "version": "0.1.0",
+  "owner": {
+    "name": "Thomas Auinger",
+    "email": "thomas.auinger@legend-espresso.com"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "hello-world",
+      "source": "./plugins/hello-world",
+      "description": "Minimal starter plugin that adds a /hello slash command."
+    },
+    {
+      "name": "code-helper",
+      "source": "./plugins/code-helper",
+      "description": "Demonstrates a command, an agent, a skill, and a hook working together."
+    }
+  ]
+}
